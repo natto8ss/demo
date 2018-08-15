@@ -1,0 +1,10 @@
+body{
+  background: #000;
+}
+p{
+  color: #FFF;
+  &:hover{
+    color: #F00;
+    font-size: 150%;
+  }
+}
